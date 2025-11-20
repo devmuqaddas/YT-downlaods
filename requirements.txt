@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn
+yt-dlp
+psutil
+python-multipart
+gunicorn
+jinja2
