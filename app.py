@@ -1,6 +1,4 @@
 
-
-
 # import os
 # import yt_dlp
 # from fastapi import FastAPI, Request, HTTPException, BackgroundTasks, Form
@@ -2459,4 +2457,4 @@ async def shutdown_event():
 
 if __name__ == '__main__':
     import uvicorn
-    uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("app:app", host="0.0.0.0", port=3000, reload=True)
